@@ -37,7 +37,6 @@ In this project we show how to test if exception was thrown using `junit4` and `
     
     
 # junit5 + java 8
-We use `5.2.0`:
 ```
 testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.2.0'
 ```

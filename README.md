@@ -2,7 +2,6 @@
 In this project we show how to test if exception was thrown using `junit4` and `junit5`.
 
 # junit4
-We use `4.12`:
 ```testCompile group: 'junit', name: 'junit', version: '4.12'```
 
 * Before `4.7`:

@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 /**
  * Created by mtumilowicz on 2018-08-09.
  */
-class ExpectException {
+class ExpectExceptionTest {
     
     @Test
     void expect_exception() {

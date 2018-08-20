@@ -5,7 +5,7 @@ import org.junit.rules.ExpectedException;
 /**
  * Created by mtumilowicz on 2018-08-09.
  */
-public class ExpectException2 {
+public class ExpectException2Test {
     @Rule
     public ExpectedException thrown = ExpectedException.none();
 

@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/junit-expect-exception.svg?branch=master)](https://travis-ci.com/mtumilowicz/junit-expect-exception)
+
 # junit-expect-exception
 In this project we show how to test if exception was thrown using `junit4` and `junit5`.
 
